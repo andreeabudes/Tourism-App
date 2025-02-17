@@ -1,7 +1,7 @@
 This project involves the development of the back-end of a tourism application. It allows users to create a database of museums and manage tourist groups, while also implementing various 
 design patterns such as Singleton, Builder, and Observer.
 
-    Features:
+Features:
   
   Museum Management: Add and manage museums, including their details (name, location, contact information, etc.).
   
@@ -9,7 +9,7 @@ design patterns such as Singleton, Builder, and Observer.
   
   Exception Handling: Various exceptions like GroupNotExistsException, GuideExistsException, etc., are implemented to handle edge cases.
 
-    Classes Implemented:
+Classes Implemented:
 
   Database: Singleton pattern for managing museum and group data.
   
